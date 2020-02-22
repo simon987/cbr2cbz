@@ -1,5 +1,6 @@
 # cbr2cbz
 
+![GitHub](https://img.shields.io/github/license/simon987/cbr2cbz.svg)
 [![Development snapshots](https://ci.simon987.net/app/rest/builds/buildType(Cbr2cbz_Build)/statusIcon)](https://files.simon987.net/artifacts/Cbr2cbz/Build/)
 
 Convert a .cbr file to a .cbz file without modifying the original document.
