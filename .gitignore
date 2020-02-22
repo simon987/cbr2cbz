@@ -1,0 +1,9 @@
+.idea/
+*.iml
+cmake_install.cmake
+*.cbp
+Makefile
+CMakeCache.txt
+CMakeFiles
+cmake-build-debug
+cbr2cbz
