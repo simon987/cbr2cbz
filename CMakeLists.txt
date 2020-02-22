@@ -11,6 +11,9 @@ if (STATIC_BUILD)
             cbr2cbz
             -static
             archive
+            acl
+            crypto
+            z
     )
 else ()
     target_link_libraries(
